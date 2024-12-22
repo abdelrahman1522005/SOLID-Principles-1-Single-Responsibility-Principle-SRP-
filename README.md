@@ -1,6 +1,6 @@
 # SOLID-Principles-1-Single-Responsibility-Principle-SRP-
 
-
+#A class should have only one reason to change.
 
 from pathlib import Path
 from zipfile import ZipFile
